@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppReviewRequestSample", "AppReviewRequestSample\AppReviewRequestSample.csproj", "{ADF138D2-ED2F-4EBB-827F-0024FD61C590}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADF138D2-ED2F-4EBB-827F-0024FD61C590}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{ADF138D2-ED2F-4EBB-827F-0024FD61C590}.Debug|iPhone.Build.0 = Debug|iPhone
+		{ADF138D2-ED2F-4EBB-827F-0024FD61C590}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{ADF138D2-ED2F-4EBB-827F-0024FD61C590}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{ADF138D2-ED2F-4EBB-827F-0024FD61C590}.Release|iPhone.ActiveCfg = Release|iPhone
+		{ADF138D2-ED2F-4EBB-827F-0024FD61C590}.Release|iPhone.Build.0 = Release|iPhone
+		{ADF138D2-ED2F-4EBB-827F-0024FD61C590}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{ADF138D2-ED2F-4EBB-827F-0024FD61C590}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = AppReviewRequestSample\AppReviewRequestSample.csproj
+	EndGlobalSection
+EndGlobal
