@@ -61,7 +61,8 @@ namespace AppReviewRequestSample
 						case 0:
 							WriteReviewFlag(100); //Set the number high enough so the user is not prompted again.
 							lblReminderFlag.Text = string.Format("Reminder flag: {0}", 100);	
-							UIApplication.SharedApplication.OpenUrl(NSUrl.FromString("Your-iTuntes-Application-URI")); //Open the App Store to your application
+							//TODO: Put your own Application URI in this section.
+							UIApplication.SharedApplication.OpenUrl(NSUrl.FromString("[Your-iTuntes-Application-URI]")); //Open the App Store to your application
 							break;
 						case 1:
 							WriteReviewFlag(1); //Reset the reminder flag to prompt the user at a later time.
